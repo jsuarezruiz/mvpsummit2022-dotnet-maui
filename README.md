@@ -532,7 +532,7 @@ Every Xamarin.Forms control has an accompanying renderer for each platform that 
 - Consume the custom control from Xamarin.Forms.
 - Create the custom renderer for the control on each platform.
 
-![Custom Renderer](custom-renderer.png)
+![Custom Renderer](images/custom-renderer.png)
 
 ### Creating the Custom Entry Control
 
@@ -659,7 +659,7 @@ The process for creating the custom handler class is as follows:
 4. Register the handler using the **AddHandler** method in the Startup class.
 
 
-![Custom Handler](custom-handler.png)
+![Custom Handler](images/custom-handler.png)
 
 ### Creating the Custom Entry Control
 
